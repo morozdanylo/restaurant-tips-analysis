@@ -27,7 +27,7 @@ Dataset includes:
 - Smokers leave slightly higher tips
 
 ## Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](Data_Analytics_Project_1/images/dashboard.png)
 
 ## Tools Used
 - Microsoft Excel
